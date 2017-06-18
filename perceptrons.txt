@@ -1,0 +1,270 @@
+
+Perceptron Training:
+
+Learning Rate=0.001 without removing Stop words
+
+0th iteration of perceptron    accuracy =      72.80334728033473
+
+1th iteration of perceptron    accuracy =      76.77824267782427
+
+2th iteration of perceptron    accuracy =      74.68619246861925
+
+3th iteration of perceptron    accuracy =      73.22175732217573
+
+4th iteration of perceptron    accuracy =      79.9163179916318
+
+5th iteration of perceptron    accuracy =      83.47280334728033
+
+6th iteration of perceptron    accuracy =      84.30962343096235
+
+7th iteration of perceptron    accuracy =      82.42677824267783
+
+8th iteration of perceptron    accuracy =      83.89121338912133
+
+9th iteration of perceptron    accuracy =      76.56903765690376
+
+10th iteration of perceptron    accuracy =      76.56903765690376
+
+11th iteration of perceptron    accuracy =      89.33054393305439
+
+12th iteration of perceptron    accuracy =      92.46861924686192
+
+13th iteration of perceptron    accuracy =      90.1673640167364
+
+14th iteration of perceptron    accuracy =      92.67782426778243
+
+15th iteration of perceptron    accuracy =      84.93723849372385
+
+16th iteration of perceptron    accuracy =      94.14225941422595
+
+17th iteration of perceptron    accuracy =      83.05439330543933
+
+18th iteration of perceptron    accuracy =      94.14225941422595
+
+19th iteration of perceptron    accuracy =      94.14225941422595
+
+20th iteration of perceptron    accuracy =      94.14225941422595
+
+29th iteration of perceptron    accuracy =      94.14225941422595
+
+
+after removing stop words accuracy = 94.142
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Learning Rate = 0.01  before  removing stop words 
+
+
+0th iteration of perceptron    accuracy =      72.80334728033473
+
+1th iteration of perceptron    accuracy =      76.98744769874477
+
+2th iteration of perceptron    accuracy =      74.89539748953975
+
+3th iteration of perceptron    accuracy =      75.52301255230125
+
+4th iteration of perceptron    accuracy =      78.03347280334728
+
+5th iteration of perceptron    accuracy =      80.1255230125523
+
+6th iteration of perceptron    accuracy =      76.56903765690376
+
+7th iteration of perceptron    accuracy =      76.35983263598327
+
+8th iteration of perceptron    accuracy =      82.63598326359832
+
+9th iteration of perceptron    accuracy =      83.26359832635983
+
+10th iteration of perceptron    accuracy =      78.8702928870293
+
+11th iteration of perceptron    accuracy =      87.23849372384937
+
+12th iteration of perceptron    accuracy =      88.7029288702929
+
+13th iteration of perceptron    accuracy =      85.77405857740585
+
+14th iteration of perceptron    accuracy =      77.82426778242677
+
+15th iteration of perceptron    accuracy =      82.21757322175732
+
+16th iteration of perceptron    accuracy =      89.33054393305439
+
+17th iteration of perceptron    accuracy =      93.51464435146444
+
+18th iteration of perceptron    accuracy =      93.93305439330544
+
+19th iteration of perceptron    accuracy =      93.93305439330544
+
+20th iteration of perceptron    accuracy =      93.93305439330544
+
+
+
+
+after removing stop words accuracy = 93.933
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Learning Rate = 0.02  before  removing stop words 
+
+
+0th iteration of perceptron    accuracy =      72.80334728033473
+
+1th iteration of perceptron    accuracy =      76.98744769874477
+
+2th iteration of perceptron    accuracy =      74.89539748953975
+
+3th iteration of perceptron    accuracy =      75.52301255230125
+
+4th iteration of perceptron    accuracy =      78.03347280334728
+
+5th iteration of perceptron    accuracy =      80.1255230125523
+
+6th iteration of perceptron    accuracy =      76.56903765690376
+
+7th iteration of perceptron    accuracy =      76.35983263598327
+
+8th iteration of perceptron    accuracy =      82.63598326359832
+
+9th iteration of perceptron    accuracy =      83.26359832635983
+
+10th iteration of perceptron    accuracy =      78.8702928870293
+
+11th iteration of perceptron    accuracy =      87.23849372384937
+
+12th iteration of perceptron    accuracy =      88.7029288702929
+
+13th iteration of perceptron    accuracy =      85.77405857740585
+
+14th iteration of perceptron    accuracy =      77.82426778242677
+
+15th iteration of perceptron    accuracy =      82.21757322175732
+
+16th iteration of perceptron    accuracy =      89.33054393305439
+
+17th iteration of perceptron    accuracy =      93.51464435146444
+
+18th iteration of perceptron    accuracy =      93.93305439330544
+
+19th iteration of perceptron    accuracy =      93.93305439330544
+
+20th iteration of perceptron    accuracy =      93.93305439330544
+
+
+
+after removing stop words accuracy = 92.259
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Learning Rate = 0.1  before  removing stop words
+
+
+0th iteration of perceptron    accuracy =      72.80334728033473
+
+1th iteration of perceptron    accuracy =      76.77824267782427
+
+2th iteration of perceptron    accuracy =      74.68619246861925
+
+3th iteration of perceptron    accuracy =      74.68619246861925
+
+4th iteration of perceptron    accuracy =      78.03347280334728
+
+5th iteration of perceptron    accuracy =      80.1255230125523
+
+6th iteration of perceptron    accuracy =      77.61506276150628
+
+7th iteration of perceptron    accuracy =      81.38075313807532
+
+8th iteration of perceptron    accuracy =      76.77824267782427
+
+9th iteration of perceptron    accuracy =      83.89121338912133
+
+10th iteration of perceptron    accuracy =      81.79916317991632
+
+11th iteration of perceptron    accuracy =      86.19246861924687
+
+12th iteration of perceptron    accuracy =      80.1255230125523
+
+13th iteration of perceptron    accuracy =      84.10041841004184
+
+14th iteration of perceptron    accuracy =      82.63598326359832
+
+15th iteration of perceptron    accuracy =      90.7949790794979
+
+16th iteration of perceptron    accuracy =      93.93305439330544
+
+17th iteration of perceptron    accuracy =      95.39748953974896
+
+18th iteration of perceptron    accuracy =      95.39748953974896
+
+19th iteration of perceptron    accuracy =      95.39748953974896
+
+20th iteration of perceptron    accuracy =      95.39748953974896
+
+
+after removing stop words accuracy = 92.887
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+Learning rate = 1 before  removing stop words
+
+0th iteration of perceptron    accuracy =      72.80334728033473
+
+1th iteration of perceptron    accuracy =      76.98744769874477
+
+2th iteration of perceptron    accuracy =      74.68619246861925
+
+3th iteration of perceptron    accuracy =      74.68619246861925
+
+4th iteration of perceptron    accuracy =      77.19665271966527
+
+5th iteration of perceptron    accuracy =      79.9163179916318
+
+6th iteration of perceptron    accuracy =      77.82426778242677
+
+7th iteration of perceptron    accuracy =      76.77824267782427
+
+8th iteration of perceptron    accuracy =      76.77824267782427
+
+9th iteration of perceptron    accuracy =      86.82008368200837
+
+10th iteration of perceptron    accuracy =      80.1255230125523
+
+11th iteration of perceptron    accuracy =      86.82008368200837
+
+12th iteration of perceptron    accuracy =      84.93723849372385
+
+13th iteration of perceptron    accuracy =      84.51882845188284
+
+14th iteration of perceptron    accuracy =      93.30543933054393
+
+15th iteration of perceptron    accuracy =      94.14225941422595
+
+16th iteration of perceptron    accuracy =      93.51464435146444
+
+17th iteration of perceptron    accuracy =      93.51464435146444
+
+18th iteration of perceptron    accuracy =      93.51464435146444
+
+19th iteration of perceptron    accuracy =      93.51464435146444
+
+20th iteration of perceptron    accuracy =      93.51464435146444
+
+
+after removing stop words accuracy = 93.5
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+
+Accuracy of Naive Bayes = 96.652
+
+
+Accuracy of Naive Bayes is greater than the maximum accuracy of perceptrons (95.39)
+
+
+
+

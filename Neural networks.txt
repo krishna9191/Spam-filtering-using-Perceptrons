@@ -1,0 +1,45 @@
+Set 2 
+
+Hidden units	Momentum	learning rate	 Iterations 	Mean error 	Mean Square error
+
+5		 0.2		   0.3		    100		   0			0
+5		 0.2		   0.3		    50		   0.0001		0.0014
+5		 0.2		   0.3		    20		   0.0001		0.001
+10		 0.2		   0.3		    100		   0			0
+10		 0.2		   0.3		    50		   0.0001		0.0003
+10		 0.2		   0.3		    20		   0.0001		0.0008
+
+5		 0.2		   0.2		    100		   0.0004		0.0024
+5		 0.2		   0.2		    50		   0.0001		0.0009
+5		 0.2		   0.2		    20		   0.0001		0.0011
+
+5		 0.5		   0.2		    50		   0.0009		0.0167
+5		 0.5		   0.2		    100		   0			0
+
+
+
+Set 1
+
+
+Hidden units	Momentum	learning rate	 Iterations 	Mean error 	Mean Square error
+
+5		 0.2		   0.3		    50		   0.0084		0.112
+5,5		 0.7		   0.3		    50		   0.0038		0.0084
+5,5		 0.4		   0.2		    50		   0.0248		0.0084
+5,2		 0.2		   0.2		    50		   0.0494		0.0086
+5,2		 0.2		   0.3		    50		   0.0084		0.112
+
+
+
+
+Conclusion: 
+
+1) If we increase the number of hidden units, the neural network can classify the data  more accurately .
+
+2) The number of iterations should be increased proportionally to number of hidden networks in order to classify the data correctly or else the error increases.
+
+3) If the learning rate is increased, the neural network converges faster.
+
+ 
+
+
